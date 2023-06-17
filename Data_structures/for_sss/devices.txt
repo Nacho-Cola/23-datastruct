@@ -1,0 +1,12 @@
+gpu 2 usa
+ssd 4 china
+cpu 1 usa
+hhd 5 japan
+dra 3 korea
+arm 4 fran
+fuc 7 kor
+fla 5 japan
+bas 3 korea
+yyy 4 fran
+abc 2 dff
+ccc 5 fdfg
